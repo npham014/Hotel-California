@@ -22,7 +22,7 @@ export default function NavBar() {
                 <div className="navbar-container">
                     <div className="navbar-left">
                         <div><Link to="/" className="navbar-name">HC</Link></div>
-                        <div><Link to="/" className="navbar-logo"><img src="/images/lion.png" alt="logo for the hotel california, a golden lion"/></Link></div>
+                        <div><Link to="/" className="navbar-logo"><img src={process.env.PUBLIC_URL + '/images/lion.png'} alt="logo for the hotel california, a golden lion"/></Link></div>
                     </div>
                     <div className="navbar-right" onClick={handleNavOpen}>
                         {navOpen ? <MenuOpenIcon className="icon"/> : <MenuIcon className="icon"/>}

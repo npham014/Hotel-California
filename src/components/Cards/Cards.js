@@ -9,13 +9,13 @@ function Cards() {
             <div className="cards--items--wrapper">
                 <ul className="cards--items">
                     <CardItem
-                        src="images/beach_family.jfif"
+                        src={process.env.PUBLIC_URL + "/images/beach_family.jfif"}
                         text="Any time of year, you can find me here!"
                         label="Testimonial"
                         path="/blog"
                     />
                     <CardItem
-                        src="images/pink_champagne.jfif"
+                        src={process.env.PUBLIC_URL + "/images/pink_champagne.jfif"}
                         text="Introducing Our New Wine Collection"
                         label="Announcement"
                         path="/blog"
