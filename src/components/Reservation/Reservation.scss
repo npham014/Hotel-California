@@ -1,0 +1,26 @@
+.reservation--form--container {
+    display:flex;
+    flex-direction:column;
+    height: 90vh;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 3rem;
+    background-image: url("../../../public/images/halongbay.jfif");
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    color:white;
+
+    form {
+        display:flex;
+        flex-direction: column;
+        font-size: 3rem;
+        input {
+            font-size: 3rem;
+            height: 80%;
+        }
+        .sub--btn {
+            font-size: 2rem;
+        }
+    }
+}
