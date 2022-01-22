@@ -7,7 +7,7 @@ import { IconButton } from '@material-ui/core';
 function Footer() {
   return (
         <div className="footer-container">
-            <IconButton href="https://github.com/npham014/Hotel-California/tree/master" target="_blank">
+            <IconButton href="https://github.com/npham014/Hotel-California" target="_blank">
                 <GitHubIcon className="ghIcon"/>
             </IconButton>
             <IconButton href="https://www.linkedin.com/in/nathan-pham-186a2b14b/" target="_blank">
