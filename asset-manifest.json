@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/npham014/Hotel-California/static/css/main.4a3d25d2.css",
+    "main.js": "/npham014/Hotel-California/static/js/main.8d3cedd7.js",
+    "static/media/halongbay.jfif": "/npham014/Hotel-California/static/media/halongbay.f8ae35d98707599b2696.jfif",
+    "static/media/orange_desert.jfif": "/npham014/Hotel-California/static/media/orange_desert.d3c6d7fd407a8d8771c4.jfif",
+    "index.html": "/npham014/Hotel-California/index.html",
+    "main.4a3d25d2.css.map": "/npham014/Hotel-California/static/css/main.4a3d25d2.css.map",
+    "main.8d3cedd7.js.map": "/npham014/Hotel-California/static/js/main.8d3cedd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a3d25d2.css",
+    "static/js/main.8d3cedd7.js"
+  ]
+}
