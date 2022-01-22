@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/npham014/Hotel-California/static/css/main.4a3d25d2.css",
-    "main.js": "/npham014/Hotel-California/static/js/main.7ad0dc8f.js",
-    "static/media/halongbay.jfif": "/npham014/Hotel-California/static/media/halongbay.f8ae35d98707599b2696.jfif",
-    "static/media/orange_desert.jfif": "/npham014/Hotel-California/static/media/orange_desert.d3c6d7fd407a8d8771c4.jfif",
-    "index.html": "/npham014/Hotel-California/index.html",
-    "main.4a3d25d2.css.map": "/npham014/Hotel-California/static/css/main.4a3d25d2.css.map",
-    "main.7ad0dc8f.js.map": "/npham014/Hotel-California/static/js/main.7ad0dc8f.js.map"
+    "main.css": "/Hotel-California/static/css/main.1b337950.css",
+    "main.js": "/Hotel-California/static/js/main.93446c48.js",
+    "static/media/halongbay.jfif": "/Hotel-California/static/media/halongbay.f8ae35d98707599b2696.jfif",
+    "static/media/orange_desert.jfif": "/Hotel-California/static/media/orange_desert.d3c6d7fd407a8d8771c4.jfif",
+    "index.html": "/Hotel-California/index.html",
+    "main.1b337950.css.map": "/Hotel-California/static/css/main.1b337950.css.map",
+    "main.93446c48.js.map": "/Hotel-California/static/js/main.93446c48.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a3d25d2.css",
-    "static/js/main.7ad0dc8f.js"
+    "static/css/main.1b337950.css",
+    "static/js/main.93446c48.js"
   ]
 }
